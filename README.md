@@ -3,17 +3,8 @@
 I'm a Full Stack Developer based in Thrissur, specializing in JavaScript and Node.js.
 
 ## Skills
-- ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-yellow)
-- ![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-green)
-- ![HTML](https://img.shields.io/badge/HTML-★★★★☆-orange)
-- ![CSS](https://img.shields.io/badge/CSS-★★★★☆-blue)
-- ![PHP](https://img.shields.io/badge/PHP-★★★☆☆-purple)
-- ![Express.js](https://img.shields.io/badge/Express.js-★★★★☆-blueviolet)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-★★★★☆-purple)
-- ![React.js](https://img.shields.io/badge/React.js-★★★★☆-blue)
-- ![Redux](https://img.shields.io/badge/Redux-★★★★☆-green)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-brightgreen)
-- ![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-orange)
+
+![JavaScript](path_to_your_js_icon) ![Node.js](path_to_your_node_icon) ![HTML](path_to_your_html_icon) ![CSS](path_to_your_css_icon) ![PHP](path_to_your_php_icon) ![Express.js](path_to_your_express_icon) ![Bootstrap](path_to_your_bootstrap_icon) ![React.js](path_to_your_react_icon) ![Redux](path_to_your_redux_icon) ![MongoDB](path_to_your_mongodb_icon) ![MySQL](path_to_your_mysql_icon)
 
 ## About Me
 I am a passionate developer with experience in building robust web applications. I focus on creating efficient and user-friendly solutions using the latest technologies.
