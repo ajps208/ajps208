@@ -12,4 +12,4 @@ I'm a Full Stack Developer passionate about creating efficient and user-friendly
 ## About Me
 I am dedicated to leveraging my skills and experience to craft high-quality software solutions. I enjoy exploring new technologies and solving complex problems.
 
-Feel free to connect with me via [[LinkedIn](linkedin)](https://www.linkedin.com/in/ajith-ps-16a743259/)https://www.linkedin.com/in/ajith-ps-16a743259/ or check out my [GitHub](github) profile.
+Feel free to connect with me via ([linkedin](https://www.linkedin.com/in/ajith-ps-16a743259/)] or check out my [GitHub](github) profile.
